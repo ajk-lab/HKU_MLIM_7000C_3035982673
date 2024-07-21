@@ -1,0 +1,5 @@
+MSCI_INDEX,Spearman Correlation,p-value,Geographical Region,color_label
+MSCI_EM,0.2884076511348298,0.003615245701141807,Emerging Markets,Statistically Significant
+MSCI_EUROPE,0.1086695764669857,0.2818270054263741,Europe,Not Significant
+MSCI_US,0.2217456383344661,0.026605429516102005,United States,Statistically Significant
+MSCI_WORLD,0.009672267990808083,0.9239106550621541,World,Not Significant
